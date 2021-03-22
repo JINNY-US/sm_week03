@@ -14,6 +14,7 @@
 
 ### 1. 어플 아이콘   
 [어플 초기안(1) / 어플 초기안(2)]   
+<img src="C:\Users\김경진\Desktop\스마트모바일프로그램 설계\03주차\팀플 디자인\어플 1차 최종.png" width="300px" height="300px" title="px(픽셀) 크기 설정" alt="어플초기안(1)"></img>   
 ![어플 초기안(1)](https://user-images.githubusercontent.com/57963888/111954770-efebe180-8b2b-11eb-9171-668e01c5c08c.png) / ![어플 초기안(2)](https://user-images.githubusercontent.com/57963888/111954829-02661b00-8b2c-11eb-94b1-e37de52955a9.png)   
 전체적인 디자인 선정   
 
