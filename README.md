@@ -38,26 +38,31 @@
 ![어플 2차 최종(확정)](https://user-images.githubusercontent.com/57963888/111958828-0e081080-8b31-11eb-92ba-2386b7edae8f.png)   
 어플 이름을 추가하여 최종 확정.   
    
+***   
 
 ### 2. 배경   
 [배경 초기 아이디어]   
 ![배경 초기 아이디어](https://user-images.githubusercontent.com/57963888/111959034-4a3b7100-8b31-11eb-8765-7c07c7e51a3e.png)   
 splash screen에 사용될 배경 이미지의 초기 아이디어. 배경 일러스트들의 색감이 너무 화려해, 중간의 중요한 포인트인 물음표 마크로 가야할 시선이 분산됨.   
     
+       
 [배경 초기 샘플(1)]   
 ![배경 초기 샘플(1)](https://user-images.githubusercontent.com/57963888/111958874-1c562c80-8b31-11eb-8c97-016380803d79.png)   
 배경 초기 아이디어를 기초로 중앙의 물음표가 강조되도록 수정.   
 하지만 이 디자인도 중앙보단 외각으로 시선이 분산되고 너무 밋밋함.   
    
+
 [배경 초기 샘플(2)]   
 ![배경 초기 샘플(2)](https://user-images.githubusercontent.com/57963888/111958883-1e1ff000-8b31-11eb-8f36-ba3a220dc2ae.png)   
 일러스트들의 배열을 변경하여 시도.   
+   
    
 [배경 초기 샘플(3) / 배경 초기 샘플(4)]   
 ![배경 초기 샘플(3)](https://user-images.githubusercontent.com/57963888/111958889-1fe9b380-8b31-11eb-8cc2-213286e06518.png)
 ![배경 초기 샘플(4)](https://user-images.githubusercontent.com/57963888/111958897-22e4a400-8b31-11eb-985e-3ed664f725b2.png)   
 일러스트를 1개만 넣어 중앙에 집중적으로 포인트를 주는 방식 시도.   
    
+
 [배경 2차 샘플(1) / 배경 2차 샘플(2) / 배경 2차 샘플(3)]   
 ![배경 2차 샘플(1)](https://user-images.githubusercontent.com/57963888/111959062-558e9c80-8b31-11eb-9c24-e8d7bcf324f0.png)
 ![배경 2차 샘플(2)](https://user-images.githubusercontent.com/57963888/111959072-57586000-8b31-11eb-86e3-d13eccee8e14.png)
@@ -65,6 +70,7 @@ splash screen에 사용될 배경 이미지의 초기 아이디어. 배경 일�
 중앙에 가게 이미지를 배치하는 샘플이 가장 결과물이 좋아서 더 좋은 이미지로 변경하고, 여러 가지 사소한 변화를 줌.   
 글자 크기, 글자 위치, 그림 크기 등의 변화를 다양하게 시도.   
    
+
 [배경 최종(확정)]   
 ![배경 최종(확정)](https://user-images.githubusercontent.com/57963888/111959121-63dcb880-8b31-11eb-85d9-a2c3607e9139.png)   
 다양한 시도 끝에 완성된 가장 적절한 비율을 찾아 최종 확정.   
