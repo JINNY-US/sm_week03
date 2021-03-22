@@ -61,3 +61,16 @@ https://ovenapp.io/view/WpSyVUgzyto0qbGAsVvW0ivQtldFGYwa/
    
 >ID : grace8362@naver.com   
 >PW : sangmyung19   
+
+한 번에 보기 편하도록 사진도 첨부합니다.   
+
+![로그인](https://user-images.githubusercontent.com/57963888/111962263-72c56a00-8b35-11eb-9fba-005b0624af5c.PNG)
+![회원가입](https://user-images.githubusercontent.com/57963888/111962256-6fca7980-8b35-11eb-893b-fe136be8045f.PNG)
+![예산](https://user-images.githubusercontent.com/57963888/111962282-76f18780-8b35-11eb-8b80-47f6d20c3e71.PNG)
+![장소](https://user-images.githubusercontent.com/57963888/111962359-8f61a200-8b35-11eb-8b89-5451957dbc53.PNG)
+![음식점 게시판](https://user-images.githubusercontent.com/57963888/111962302-7d7fff00-8b35-11eb-9664-69eede07ab0e.PNG)
+![카페 게시판](https://user-images.githubusercontent.com/57963888/111962310-807aef80-8b35-11eb-9702-83b595c86bfd.PNG)
+![옷가게 게시판](https://user-images.githubusercontent.com/57963888/111962320-84a70d00-8b35-11eb-82f3-13145f3171c9.PNG)
+![영화관 게시판](htt
+![가계부](https://user-images.githubusercontent.com/57963888/111962399-98527380-8b35-11eb-9fc3-bdbf78ff4875.PNG)
+ps://user-images.githubusercontent.com/57963888/111962327-87096700-8b35-11eb-9669-ea5f5189fc60.PNG)
