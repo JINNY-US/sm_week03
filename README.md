@@ -64,8 +64,7 @@ https://github.com/Kim-KyungJin/sm_week03/blob/AppLogo/README.md
 
 앱 구현을 하기 전에 대략적인 UI를 디자인했습니다.   
 자세하게 보실 수 있도록 링크를 첨부합니다.   
-https://ovenapp.io/view/WpSyVUgzyto0qbGAsVvW0ivQtldFGYwa/   
-   
+https://ovenapp.io/view/lcM7IE7lqQQt487lbFH3pTaoI0ciJHi3/      
 >ID : grace8362@naver.com   
 >PW : sangmyung19   
 
@@ -73,7 +72,7 @@ https://ovenapp.io/view/WpSyVUgzyto0qbGAsVvW0ivQtldFGYwa/
 
 ![로그인](https://user-images.githubusercontent.com/57963888/111962899-40683c80-8b36-11eb-8bf6-2fa2e1eb03e5.PNG)
 ![회원가입](https://user-images.githubusercontent.com/57963888/111962912-452cf080-8b36-11eb-821e-fb375b91f286.PNG)
-![회원정보](https://user-images.githubusercontent.com/57963888/111992201-7dddc180-8b58-11eb-9467-6a1b59338709.PNG)   
+![회원정보](https://user-images.githubusercontent.com/57963888/111992730-15dbab00-8b59-11eb-8221-23946a391cd0.PNG)   
 로그인과 회원가입 창입니다. 로그인을 한 후, 회원정보를 확인할 수 있습니다.  
 
 ![예산](https://user-images.githubusercontent.com/57963888/111962935-4e1dc200-8b36-11eb-891c-8e84d223b1d6.PNG)
@@ -81,12 +80,12 @@ https://ovenapp.io/view/WpSyVUgzyto0qbGAsVvW0ivQtldFGYwa/
 예산과 목적지를 입력하는 창입니다. 이후에 인원, 시간대, 해시태그 기능을 넣어 더 자세한 추천이 가능하도록 수정할 예정입니다.   
 
 ![음식점 게시판](https://user-images.githubusercontent.com/57963888/111962920-478f4a80-8b36-11eb-8f62-23f94c638310.PNG)
-![카페 게시판](https://user-images.githubusercontent.com/57963888/111992182-79190d80-8b58-11eb-96bd-d8e024ebbbdc.PNG)
+![카페 게시판](https://user-images.githubusercontent.com/57963888/111992688-0a887f80-8b59-11eb-9049-bbaa35fe8226.PNG)
 ![옷가게 게시판](https://user-images.githubusercontent.com/57963888/111962983-5d047480-8b36-11eb-9208-02d6892ac4e7.PNG)
 ![영화관 게시판](https://user-images.githubusercontent.com/57963888/111962990-5f66ce80-8b36-11eb-90ba-eadab7da3c52.PNG)   
 추천뿐만이 아니라 게시판에서 유저들이 자유로운 소통을 할 수 있도록 만들 예정입니다.     
 
 ![가계부](https://user-images.githubusercontent.com/57963888/111963010-64c41900-8b36-11eb-9204-9c460ed19dc8.PNG)
-![히스토리](https://user-images.githubusercontent.com/57963888/111992216-8209df00-8b58-11eb-854f-91267ca1be54.PNG)   
+![히스토리](https://user-images.githubusercontent.com/57963888/111992763-20964000-8b59-11eb-95bf-c47d43ac531f.PNG)   
 앱을 하루동안 사용하고 총 얼마를 소비했는지 보여주는 창입니다. 또한, 자신이 과거에 어디에 갔는지 확인할 수 있습니다.   
 
