@@ -53,5 +53,11 @@ https://github.com/Kim-KyungJin/sm_week03/edit/AppLogo/README.md
 ![배경 최종(확정)](https://user-images.githubusercontent.com/57963888/111959121-63dcb880-8b31-11eb-85d9-a2c3607e9139.png)   
 앱 로고 / 배경   
 
-## (4) 앱 UI 디자인
+## (4) 앱 UI 디자인   
 
+앱 구현을 하기 전에 대략적인 UI를 디자인했습니다.   
+자세하게 보실 수 있도록 링크를 첨부합니다.   
+https://ovenapp.io/view/WpSyVUgzyto0qbGAsVvW0ivQtldFGYwa/   
+   
+>ID : grace8362@naver.com   
+>PW : sangmyung19   
