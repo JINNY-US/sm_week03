@@ -14,11 +14,10 @@
 
 ### 1. 어플 아이콘   
 
-> #### [어플 초기안(1) / 어플 초기안(2)]      
+#### [어플 초기안(1) / 어플 초기안(2)]      
 ![어플 초기안(1)](https://user-images.githubusercontent.com/57963888/111958615-c84b4800-8b30-11eb-870d-c596e6a05d44.png)
 ![어플 초기안(2)](https://user-images.githubusercontent.com/57963888/111958632-cd0ffc00-8b30-11eb-9a94-6ccb4842d0fa.png)      
 전체적인 디자인 선정   
-<
    
 #### [어플 색상 샘플]   
 ![어플 색상 샘플](https://user-images.githubusercontent.com/57963888/111955088-64268500-8b2c-11eb-8ef8-4170db3ed9dc.png)   
