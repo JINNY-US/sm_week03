@@ -64,13 +64,20 @@ https://ovenapp.io/view/WpSyVUgzyto0qbGAsVvW0ivQtldFGYwa/
 
 한 번에 보기 편하도록 사진도 첨부합니다.   
 
-![로그인](https://user-images.githubusercontent.com/57963888/111962263-72c56a00-8b35-11eb-9fba-005b0624af5c.PNG)
-![회원가입](https://user-images.githubusercontent.com/57963888/111962256-6fca7980-8b35-11eb-893b-fe136be8045f.PNG)
-![예산](https://user-images.githubusercontent.com/57963888/111962282-76f18780-8b35-11eb-8b80-47f6d20c3e71.PNG)
-![장소](https://user-images.githubusercontent.com/57963888/111962359-8f61a200-8b35-11eb-8b89-5451957dbc53.PNG)
-![음식점 게시판](https://user-images.githubusercontent.com/57963888/111962302-7d7fff00-8b35-11eb-9664-69eede07ab0e.PNG)
-![카페 게시판](https://user-images.githubusercontent.com/57963888/111962310-807aef80-8b35-11eb-9702-83b595c86bfd.PNG)
-![옷가게 게시판](https://user-images.githubusercontent.com/57963888/111962320-84a70d00-8b35-11eb-82f3-13145f3171c9.PNG)
-![영화관 게시판](htt
-![가계부](https://user-images.githubusercontent.com/57963888/111962399-98527380-8b35-11eb-9fc3-bdbf78ff4875.PNG)
-ps://user-images.githubusercontent.com/57963888/111962327-87096700-8b35-11eb-9669-ea5f5189fc60.PNG)
+![로그인](https://user-images.githubusercontent.com/57963888/111962899-40683c80-8b36-11eb-8bf6-2fa2e1eb03e5.PNG)
+![회원가입](https://user-images.githubusercontent.com/57963888/111962912-452cf080-8b36-11eb-821e-fb375b91f286.PNG)   
+로그인과 회원가입 창입니다.   
+
+![예산](https://user-images.githubusercontent.com/57963888/111962935-4e1dc200-8b36-11eb-891c-8e84d223b1d6.PNG)
+![장소](https://user-images.githubusercontent.com/57963888/111962953-5413a300-8b36-11eb-905d-39cd4170134e.PNG)   
+예산과 목적지를 입력하는 창입니다. 이후에 인원, 시간대, 해시태그 기능을 넣어 더 자세한 추천이 가능하도록 수정할 예정입니다.   
+
+![음식점 게시판](https://user-images.githubusercontent.com/57963888/111962920-478f4a80-8b36-11eb-8f62-23f94c638310.PNG)
+![카페 게시판](https://user-images.githubusercontent.com/57963888/111962974-5a098400-8b36-11eb-814d-cdfc067a3430.PNG)
+![옷가게 게시판](https://user-images.githubusercontent.com/57963888/111962983-5d047480-8b36-11eb-9208-02d6892ac4e7.PNG)
+![영화관 게시판](https://user-images.githubusercontent.com/57963888/111962990-5f66ce80-8b36-11eb-90ba-eadab7da3c52.PNG)   
+추천뿐만이 아니라 게시판에서 유저들이 자유로운 소통을 할 수 있도록 만들 예정입니다.     
+
+![가계부](https://user-images.githubusercontent.com/57963888/111963010-64c41900-8b36-11eb-9204-9c460ed19dc8.PNG)   
+앱을 하루동안 사용하고 총 얼마를 소비했는지 보여주는 창입니다.   
+
